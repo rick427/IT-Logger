@@ -8,14 +8,14 @@
           "tech": "Sam Smith"
       },
       {
-        "id": 1,
+        "id": 2,
         "message": "Workstation 007 not posting",
-        "attention": false,
+        "attention": true,
         "date": "03-02-2019",
         "tech": "John Doe"
       },
       {
-        "id": 1,
+        "id": 3,
         "message": "Changed memory on workstation 050",
         "attention": false,
         "date": "03-02-2019",
