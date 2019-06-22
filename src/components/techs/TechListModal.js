@@ -1,5 +1,4 @@
 import React, {useState, useEffect} from 'react';
-import AddTechModal from './AddTechModal';
 import TechItem from './TechItem';
 
 
