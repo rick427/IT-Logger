@@ -22,7 +22,8 @@ const AddLogModal = ({addLog}) => {
             }
 
             addLog(newLog);
-            M.toast({html: `Log added by ${tech}`})
+            M.toast({html: `Log added by ${tech}`});
+            
             setMessage('');
             setTech('');
             setAttention(false);
